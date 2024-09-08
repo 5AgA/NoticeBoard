@@ -1,0 +1,220 @@
+* {
+    margin: auto;
+    font-family: '맑은 고딕';
+}
+
+body {
+    margin-top: 5%;
+}
+
+.loginButton {
+    text-align: right;
+    margin-right: 10%;
+}
+
+.loginButton a {
+    text-decoration: none;
+    color: black;
+    text-align: right;
+    margin-right: 20px;
+    font-weight: bolder;
+    
+}
+
+.login {
+    margin: auto;
+    width: 40%;
+    border:1px solid #7e7e7e;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #7e7e7e;
+    font-size: 15px;  
+}
+
+.login h1 {
+    padding-top: 20px;
+}
+
+.login input {
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+
+.login td {
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.loginOption td{
+    font-size: 15px !important;
+}
+
+.loginSubmit input {
+    width:70%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #000000;
+    color: white;
+    font-weight: bolder;
+}
+
+h1, h4 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}  
+
+h4 {
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+table {
+    margin-top: 100px;
+    width: 80%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.index th {
+    border-top: solid 3px #7c7c7c;
+    border-bottom: solid 1px #a0a0a0;
+    font-weight: bolder;
+    padding: 10px;
+}
+
+.index td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: solid 1px #a0a0a0;
+}
+
+button, .button {
+    margin-top: 50px;
+    margin-left: 85%;
+    padding: 5px 10px;
+    border-radius: 10%;
+    background-color: #000000;
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.page {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.page a, strong, .page span {
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+.pagenum {
+    padding-top: 20px;
+}
+
+.write {
+    text-align: center;
+    border: 1px solid #7e7e7e;
+    border-radius: 10px;
+    padding: 20px;
+    height: fit-content;
+    box-shadow: 5px 5px 5px #7e7e7e;   
+    width: 60%;
+}
+
+.write hr {
+    margin-top: 35px;
+}
+
+.write ul {
+    list-style:none;
+    margin-bottom: 0px; 
+}
+
+.write li {
+    float: right;
+    margin-right: 50px;
+}
+
+.write button {
+    width: 50px;
+}
+
+.write form {
+    margin-top: 50px;
+}
+
+.writeTable table {
+    border-collapse: collapse;
+}
+
+.writeTable th {
+    vertical-align: top;
+    font-size: 20px;
+}
+
+.writeTable th, .write td {
+    padding: 15px;
+}
+
+.writeTable input, .writeTable textarea {
+    width: 100%;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.writeTable input {
+    height: 20px;
+}
+
+.writeTable textarea {
+    height: 200px;
+    resize: none;
+}
+
+.view {
+    width: 60%;
+    margin: 50px auto;
+    border: 1px solid #7e7e7e;
+    padding: 20px;
+    border-radius: 10px;
+    height: fit-content;
+    box-shadow: 5px 5px 5px #7e7e7e;
+}
+
+.view h2 {
+    margin-bottom: 30px;
+}
+
+.view hr {
+    border: 1px solid #7e7e7e;
+    margin: 20px 0;
+}
+
+.viewButton ul {
+    list-style: none;
+    margin-right: 50px;
+    margin-bottom: 0px; 
+}
+
+.viewButton li {
+    float: right;
+}
+
+.viewButton button {
+    width: 60px;
+    margin-right: 15px;
+}
+
